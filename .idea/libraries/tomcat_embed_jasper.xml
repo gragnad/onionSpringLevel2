@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="tomcat-embed-jasper">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../apache-tomcat-8.5.82-embed/tomcat-embed-jasper.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

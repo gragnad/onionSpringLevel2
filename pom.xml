@@ -14,7 +14,7 @@
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 
         <org.springframework.version>4.2.5.RELEASE</org.springframework.version>
-        <tomcat.version>8.0.15</tomcat.version>
+        <tomcat.version>8.5.82</tomcat.version>
     </properties>
 
     <dependencies>
@@ -90,7 +90,7 @@
 
 
         <!-- tomcat -->
-        <dependency>
+       <!-- <dependency>
             <groupId>org.apache.tomcat.embed</groupId>
             <artifactId>tomcat-embed-core</artifactId>
             <version>${tomcat.version}</version>
@@ -107,7 +107,24 @@
             <artifactId>tomcat-embed-jasper</artifactId>
             <version>${tomcat.version}</version>
             <scope>provided</scope>
-        </dependency>
+        </dependency>-->
+
+        <!-- https://mvnrepository.com/artifact/org.apache.tomcat/tomcat-catalina -->
+      <!--  <dependency>
+            <groupId>org.apache.tomcat</groupId>
+            <artifactId>tomcat-catalina</artifactId>
+            <version>8.0.28</version>
+        </dependency>-->
+
+        <!-- https://mvnrepository.com/artifact/org.apache.tomcat/tomcat-util -->
+       <!-- <dependency>
+            <groupId>org.apache.tomcat</groupId>
+            <artifactId>tomcat-util</artifactId>
+            <version>8.0.15</version>
+        </dependency>-->
+
+
+
     </dependencies>
 
     <build>

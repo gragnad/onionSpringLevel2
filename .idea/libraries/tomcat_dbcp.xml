@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="tomcat-dbcp">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../apache-tomcat-8.5.82-embed/tomcat-dbcp.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
