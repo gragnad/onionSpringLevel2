@@ -1,9 +1,0 @@
-<component name="libraryTable">
-  <library name="ecj-4.6.3">
-    <CLASSES>
-      <root url="jar://$PROJECT_DIR$/apache-tomcat-8.5.82-embed/ecj-4.6.3.jar!/" />
-    </CLASSES>
-    <JAVADOC />
-    <SOURCES />
-  </library>
-</component>
